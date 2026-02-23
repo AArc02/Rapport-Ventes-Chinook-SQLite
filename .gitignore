@@ -1,0 +1,15 @@
+# SQLite
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.wal
+*.shm
+
+# DB Browser for SQLite
+*.sqbpro
+*.sqb
+
+# OS
+.DS_Store
+Thumbs.db
