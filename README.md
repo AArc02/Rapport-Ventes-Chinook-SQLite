@@ -1,4 +1,6 @@
 # Projet 5 — Automatiser les rapports de ventes avec SQL (Chinook / SQLite)
+**captures  :**
+
 **SQLite :** 3.46.1
 
 ## Objectif
