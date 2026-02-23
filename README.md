@@ -1,7 +1,11 @@
 # Projet 5 — Automatiser les rapports de ventes avec SQL (Chinook / SQLite)
-**captures  :**
-
 **SQLite :** 3.46.1
+
+**captures  :**
+<img width="1469" height="847" alt="controle des tables principaux" src="https://github.com/user-attachments/assets/cb63db9c-6a0f-4c16-b239-ee7c54a37632" />
+<img width="1469" height="847" alt="KPI prix moyen pondéré" src="https://github.com/user-attachments/assets/92b65ab3-dbef-4993-b191-5938d8ffa052" />
+
+<img width="1469" height="847" alt="Rapport vente totale" src="https://github.com/user-attachments/assets/5b092660-7aea-42cf-9dcf-d15fca4b6dfd" />
 
 ## Objectif
 Produire un rapport détaillant les **ventes totales par produit** sur le **dernier trimestre**.
