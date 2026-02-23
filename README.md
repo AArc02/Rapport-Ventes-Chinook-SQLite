@@ -1,4 +1,5 @@
 # Projet 5 — Automatiser les rapports de ventes avec SQL (Chinook / SQLite)
+**SQLite :** 3.46.1
 
 ## Objectif
 Produire un rapport détaillant les **ventes totales par produit** sur le **dernier trimestre**.
@@ -22,5 +23,4 @@ Période calculée dynamiquement à partir de `MAX(Invoice.InvoiceDate)` :
 3. Exporter le résultat final en CSV
 
 **Auteur :** Arsene   
-**SQLite :** 3.46.1
 **Année :** : 2026
